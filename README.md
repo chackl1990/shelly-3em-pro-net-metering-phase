@@ -1,4 +1,4 @@
-# Shelly Pro 3EM – net metering (Saldierung)
+# [ENG] Shelly Pro 3EM – net metering (Saldierung)
 
 ## Overview
 
@@ -76,7 +76,7 @@ Use at your own risk.
 
 ---
 
-# Shelly Pro 3EM – Phasen-balancierte Energieerfassung
+# [GER] Shelly Pro 3EM – Energiedaten Saldierung
 
 ## Überblick
 
