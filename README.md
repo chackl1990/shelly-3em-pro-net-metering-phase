@@ -51,8 +51,6 @@ This script implements **true phase-balanced energy measurement** by:
 4. Optionally correcting the integration using Shelly’s internal counters as a **slow reference**
 5. Storing results in **persisted virtual number components** (Wh)
 
-This mirrors how a real bidirectional energy meter works.
-
 ---
 
 ## License
@@ -116,8 +114,6 @@ Dieses Skript realisiert eine **physikalisch korrekte, phasen-balancierte Energi
 3. Trennung von Bezug und Einspeisung über das Vorzeichen
 4. Optionale Korrektur über Shelly-Zähler als **langsame Referenz**
 5. Speicherung in **persistenten virtuellen Zählern** (Wh)
-
-Das Verhalten entspricht einem realen bidirektionalen Stromzähler.
 
 ---
 
