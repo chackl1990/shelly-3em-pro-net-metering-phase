@@ -140,6 +140,21 @@ These helpers enable correct statistics and Energy Dashboard support.
 
 MIT / Public Domain -- use at your own risk.
 
+## Disclaimer
+
+This project is provided **"as is"**, without any warranty of any kind.
+The author does not guarantee correctness, completeness, or suitability
+for any specific purpose and assumes no responsibility for damages,
+data loss, or incorrect measurements resulting from the use of this
+script or its documentation.
+
+Parts of this script and the accompanying documentation were created
+with the assistance of artificial intelligence (AI).
+All content was reviewed and adapted by the author, but no claim is made
+that the implementation is free of errors.
+
+Use at your own risk.
+
 ------------------------------------------------------------------------
 
 # [![Deutsch](https://flagcdn.com/w40/de.png)](#) Shelly Pro 3EM -- Phasen Saldierend
@@ -286,3 +301,18 @@ Energy‑Dashboard.
 ## Lizenz
 
 MIT / Public Domain – Nutzung auf eigene Gefahr.
+
+## Haftungsausschluss
+
+Dieses Projekt wird „wie es ist“ bereitgestellt, ohne jegliche Garantie.
+Der Autor übernimmt keine Gewähr für die Richtigkeit, Vollständigkeit oder
+Eignung für einen bestimmten Zweck und übernimmt keine Verantwortung für
+Schäden, Datenverluste oder fehlerhafte Messungen, die aus der Nutzung
+dieses Skripts oder seiner Dokumentation entstehen.
+
+Teile dieses Skripts sowie die begleitende Dokumentation wurden mit
+Unterstützung künstlicher Intelligenz (KI) erstellt.
+Alle Inhalte wurden vom Autor geprüft und angepasst, es wird jedoch
+keine Zusicherung gegeben, dass die Implementierung fehlerfrei ist.
+
+Die Nutzung erfolgt auf eigenes Risiko.
