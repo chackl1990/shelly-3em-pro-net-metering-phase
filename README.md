@@ -59,6 +59,21 @@ This mirrors how a real bidirectional energy meter works.
 
 MIT / Public Domain – use at your own risk.
 
+## Disclaimer
+
+This project is provided "as is", without any warranty of any kind.
+The author does not guarantee correctness, completeness, or suitability
+for any specific purpose and assumes no responsibility for damages,
+data loss, or incorrect measurements resulting from the use of this
+script or its documentation.
+
+Parts of this script and the accompanying documentation were created
+with the assistance of artificial intelligence (AI).
+All content was reviewed and adapted by the author, but no claim is made
+that the implementation is free of errors.
+
+Use at your own risk.
+
 ---
 
 # Shelly Pro 3EM – Phasen-balancierte Energieerfassung
@@ -109,3 +124,18 @@ Das Verhalten entspricht einem realen bidirektionalen Stromzähler.
 ## Lizenz
 
 MIT / Public Domain – Nutzung auf eigene Verantwortung.
+
+## Haftungsausschluss
+
+Dieses Projekt wird ohne jegliche Gewährleistung bereitgestellt.
+Der Autor übernimmt keine Verantwortung für die Richtigkeit,
+Vollständigkeit oder Eignung für einen bestimmten Zweck sowie für
+eventuelle Schäden, Datenverluste oder Fehlmessungen, die durch die
+Nutzung dieses Skripts oder der dazugehörigen Dokumentation entstehen.
+
+Teile dieses Skripts sowie die begleitende Dokumentation wurden unter
+Einsatz von künstlicher Intelligenz (KI) erstellt.
+Die Inhalte wurden vom Autor geprüft und angepasst, es wird jedoch
+keine Garantie für Fehlerfreiheit übernommen.
+
+Die Nutzung erfolgt auf eigene Verantwortung.
